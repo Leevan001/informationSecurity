@@ -27,3 +27,12 @@ n为p,q之积
 [百度百科](https://baike.baidu.com/item/RSA%E7%AE%97%E6%B3%95/263310)
 
 [维基百科](https://zh.wikipedia.org/wiki/RSA%E5%8A%A0%E5%AF%86%E6%BC%94%E7%AE%97%E6%B3%95)
+
+## 静态页面：
+
+[presentation](https://leevan001.github.io/RSA_pre/)
+
+QR code:
+
+<img src="https://raw.githubusercontent.com/Leevan001/pictureBed/main/img/qr.ioi.tw.png" style="zoom:33%;" align="left" />
+
