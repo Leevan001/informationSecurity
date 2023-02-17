@@ -30,9 +30,9 @@ n为p,q之积
 
 ## 静态页面：
 
-[presentation](https://leevan001.github.io/RSA_pre/)
+[presentation](https://blog.liyifan001.top/informationSecurity/)
 
 QR code:
 
-<img src="https://raw.githubusercontent.com/Leevan001/pictureBed/main/img/qr.ioi.tw.png" style="zoom:33%;" align="left" />
+<img src="https://fastly.jsdelivr.net/gh/Leevan001/pictureBed@main/utools/16766029990721676602998398.png" style="zoom:33%;" align="left" />
 
